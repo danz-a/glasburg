@@ -1,0 +1,6 @@
+[Wed May 07 01:41:45.198492 2025] [proxy:error] [pid 21339] (2)No such file or directory: AH02454: FCGI: attempt to connect to Unix domain socket /run/php/php8.1-fpm.sock (*:80) failed
+[Wed May 07 01:41:45.198536 2025] [proxy_fcgi:error] [pid 21339] [client 127.0.0.1:60460] AH01079: failed to make connection to backend: httpd-UDS
+[Wed May 07 01:42:00.668340 2025] [proxy:error] [pid 23474] (2)No such file or directory: AH02454: FCGI: attempt to connect to Unix domain socket /run/php/php8.1-fpm.sock (*:80) failed
+[Wed May 07 01:42:00.668410 2025] [proxy_fcgi:error] [pid 23474] [client 127.0.0.1:38816] AH01079: failed to make connection to backend: httpd-UDS
+[Wed May 07 01:44:41.849200 2025] [proxy:error] [pid 23475] (2)No such file or directory: AH02454: FCGI: attempt to connect to Unix domain socket /run/php/php8.1-fpm.sock (*:80) failed
+[Wed May 07 01:44:41.849233 2025] [proxy_fcgi:error] [pid 23475] [client 127.0.0.1:33272] AH01079: failed to make connection to backend: httpd-UDS
